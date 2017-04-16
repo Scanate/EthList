@@ -1,4 +1,4 @@
-# The Comprehensive Ethereum Reading List
+# EthList: The Comprehensive Ethereum Reading List
 ### Found a great resource? Add it by submitting a Pull Request!
 
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
