@@ -187,16 +187,24 @@ CryptoCurrency Market Capitalizations
 https://coinmarketcap.com/
 
 #### Exchanges
+
 ##### Bitcoin
 https://www.bitfinex.com/
+
 https://www.bitmex.com/
+
 ##### Altcoins
 https://poloniex.com/
+
 https://bittrex.com/
+
 https://liqui.io/
-Decentralized Exchanges (Mostly Eth assets)
+
+##### Decentralized Exchanges (Mostly Eth assets)
 https://oasisdex.com/
+
 https://etherdelta.github.io/
+
 https://cryptoderivatives.market/
 
 ## Programming
