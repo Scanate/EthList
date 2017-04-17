@@ -9,6 +9,9 @@
 Visual demonstration of a blockchain
 https://anders.com/blockchain/
 
+ELI5: What is Ethereum?
+https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/
+
 Introduction to Ethereum: The Internet’s Government
 https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w
 
@@ -35,6 +38,9 @@ https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=0ahUKEwjVreO8l
 
 Ethereum Whitepaper
 https://github.com/ethereum/wiki/wiki/White-Paper
+
+Ethereum Yellowpaper
+https://ethereum.github.io/yellowpaper/paper.pdf
 
 Very deep-dive on Ethereum Reading List
 https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990
