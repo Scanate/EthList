@@ -154,9 +154,15 @@ http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralizatio
 ‘Decentralised’ is the new black, or a short history of dapps
 http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps
 
+Cryptoeconomics Is Hard
+https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
+
 #### Crowdsales
 Introducing the Blockchain Token Securities Law Framework
 https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
+
+Blockchain investments and the new problem asset for conventional VCs
+https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75
 
 How to Raise Money on a Blockchain with a Token
 https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx
@@ -175,6 +181,9 @@ http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrenc
 
 ICO 2.0 — what is the ideal ICO?
 https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix
+
+Blockchain investment vehicles: the future of global retail investment
+https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060
 
 ## Trading
 Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)
