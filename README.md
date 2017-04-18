@@ -74,11 +74,15 @@ Easy Guide to Using Ethereum
 https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
 
 #### Security:
+The Crypto-Trader’s Guide to Online Security
+https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed
+
 My guide to securing your digital life
 https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6
 
 It’s Time to Get Real: Stop Relying on Third Parties to Protect You & Your Funds. You are responsible for your security.
 https://www.reddit.com/r/ethereum/comments/556frk/its_time_to_get_real_stop_relying_on_third/
+
 Cold Storage for Dummies
 https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/
 
@@ -118,6 +122,7 @@ http://www.coindesk.com/
 
 #### Ethereum Block Explorers
 https://etherscan.io/
+
 https://ethplorer.io
 
 #### ICOs (Initial Coin Offerings):
