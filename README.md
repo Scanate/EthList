@@ -30,6 +30,11 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
 - [Understanding Ethereum Report](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) (PDF)
 - [Very deep-dive on Ethereum Reading List](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
 
+#### History Articles:
+ 
+- [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
+- [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp]
+
 ### I want more in-depth details!
 
 #### The annual Ethereum Developer Conference (Devcon):
@@ -57,11 +62,6 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
   - _work in progress_: [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
 - **Serenity** _to be announced_ (2018)
   - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
-
-#### History Articles:
-  
-- [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-- [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp]
 
 #### List of public testnets:
 
