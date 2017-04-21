@@ -8,13 +8,9 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 
 ## Introduction
 
-### What is Ethereum?
-
-Ethereum is a cutting edge blockchain-based distributed computing platform, featuring smart contract functionality. It provides a decentralized virtual machine, the Ethereum Virtual Machine (EVM), that can execute peer-to-peer contracts using a crypto-fuel called _Ether_.
-
+#### Simple explanations of Ethereum
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
 - [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
-- [Vitalik Buterin's Ethereum introduction at Devcon 1](https://www.youtube.com/watch?v=gjwr-7PgpN8) (video)
 - [Joseph Lubin's interview on building decentralized applications](https://www.youtube.com/watch?v=MgLmY9oedTM) (video)
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI) (video)
 - [Techcrunch on Ethereum](https://www.youtube.com/watch?v=WfULutvxvzY) (video)
@@ -25,13 +21,15 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
 - [Just enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
 - [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
 - [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
+
+#### Deeper explanations of Ethereum
 - General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
+- [Vitalik Buterin's Ethereum introduction at Devcon 1](https://www.youtube.com/watch?v=gjwr-7PgpN8) (video)
 - [Thinking outside the Blocks](https://www.bcg.com/blockchain/thinking-outside-the-blocks.html?linkId=32278919)
 - [Understanding Ethereum Report](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) (PDF)
 - [Very deep-dive on Ethereum Reading List](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
 
 #### History Articles:
- 
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 - [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp)
 
