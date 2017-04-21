@@ -263,3 +263,6 @@ https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance
 
 Legality of Bitcoin by Country
 https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
+
+![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
+
