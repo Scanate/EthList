@@ -83,29 +83,32 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
 
 ## Getting Started
 
-Easy Guide to Using Ethereum
-https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
+- [Easy Guide to Using Ethereum
+](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
+)
 
 #### Security:
-The Crypto-Trader’s Guide to Online Security
-https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed
-
-My guide to securing your digital life
-https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6
-
-It’s Time to Get Real: Stop Relying on Third Parties to Protect You & Your Funds. You are responsible for your security.
-https://www.reddit.com/r/ethereum/comments/556frk/its_time_to_get_real_stop_relying_on_third/
-
-Cold Storage for Dummies
-https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/
+- [The Crypto-Trader’s Guide to Online Security
+](https://medium.com/santiment/the-crypto-traders-guide-to-online-security-8eeffa6839ed
+)
+- [My guide to securing your digital life
+](https://medium.com/@pipermerriam/my-guide-to-solid-digital-security-fb76cb19c536#.hmz8imwe6
+)
+- [It’s Time to Get Real: Stop Relying on Third Parties to Protect You & Your Funds. You are responsible for your security.
+](https://www.reddit.com/r/ethereum/comments/556frk/its_time_to_get_real_stop_relying_on_third/
+)
+- [Cold Storage for Dummies
+](https://www.reddit.com/r/ethereum/comments/55k8w2/cold_storage_for_dummies_does_a_simple_guide_exist/
+)
 
 ## Ecosystem
 
-State of the Dapps
-http://dapps.ethercasts.com/
-
-Ethereum Business Directory
-http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings
+- [State of the Dapps
+](http://dapps.ethercasts.com/
+)
+- [Ethereum Business Directory
+](http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings
+)
 
 #### Other conferences, workshops, meetups, or tutorials:
 
@@ -116,48 +119,54 @@ http://ethereumall.com/business-directory/page/9/?wpbdp_view=all_listings
 - [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) (tutorial)
 
 #### Newsletters
-Week in Ethereum
-http://www.weekinethereum.com/
-
-Dapp Daily
-https://dappdaily.com/
-
-Consensys Media
-https://media.consensys.net/
-
-The Etherian
-https://theetherian.wordpress.com
-
-The Control
-https://thecontrol.co/
-
-HEAT Crypto Roundup
-http://heatledger.ghost.io/
+- [Week in Ethereum
+](http://www.weekinethereum.com/
+)
+- [Dapp Daily
+](https://dappdaily.com/
+)
+- [Consensys Media
+](https://media.consensys.net/
+)
+- [The Etherian
+](https://theetherian.wordpress.com
+)
+- [The Control
+](https://thecontrol.co/
+)
+- [HEAT Crypto Roundup
+](http://heatledger.ghost.io/
+)
 
 #### News
-CoinTelegraph
-https://cointelegraph.com/
+- [CoinTelegraph
+](https://cointelegraph.com/
+)
+- [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency) http://www.coindesk.com/
 
-CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)
-http://www.coindesk.com/
+](http://www.coindesk.com/
+)
 
 #### Ethereum Block Explorers
-https://etherscan.io/
+- [https://etherscan.io/
+](Etherscan)
+- [https://ethplorer.io
+](Ethplorer)
 
-https://ethplorer.io
 
 #### ICOs (Initial Coin Offerings):
-Ultimate ICO Calendar
-www.scanate.co/ico
-
-Smith and Crown
-https://www.smithandcrown.com/icos/
-
-TokenMarket
-https://tokenmarket.net/
-
-TokenInvestor
-https://tokeninvestor.com/
+- [Ultimate ICO Calendar
+](www.scanate.co/ico
+)
+- [Smith and Crown
+](https://www.smithandcrown.com/icos/
+)
+- [TokenMarket
+](https://tokenmarket.net/
+)
+- [TokenInvestor
+](https://tokeninvestor.com/
+)
 
 ## Thought Pieces
 
@@ -274,7 +283,7 @@ https://cryptoderivatives.market/
 - [Ask questions at **Ethereum Stack Exchange**](http://ethereum.stackexchange.com/)
 - [Live chat with Ethereum developer teams and community](https://gitter.im/orgs/ethereum/rooms)
 - [Check out Ethereum **Meetups** in your area](https://www.meetup.com/topics/ethereum/)
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr)
 - [Where can I learn how to develop DApps using the solidity programming language?](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ieo0yl4jr
 )
 - [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
