@@ -142,10 +142,7 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
 - [CoinTelegraph
 ](https://cointelegraph.com/
 )
-- [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency) http://www.coindesk.com/
-
-](http://www.coindesk.com/
-)
+- [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)](http://www.coindesk.com/)
 
 #### Ethereum Block Explorers
 - [https://etherscan.io/
