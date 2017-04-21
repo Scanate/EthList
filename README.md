@@ -289,17 +289,18 @@ https://cryptoderivatives.market/
 - [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
 
 ## Legal
-BitLegal Map
-http://map.bitlegal.io/
-
-Introducing the Blockchain Token Securities Law Framework
-https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
-
-IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply
-https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance
-
-Legality of Bitcoin by Country
-https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
+- [BitLegal Map
+](http://map.bitlegal.io/
+)
+- [Introducing the Blockchain Token Securities Law Framework
+](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
+)
+- [IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply
+](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance
+)
+- [Legality of Bitcoin by Country
+](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
+)
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
 
