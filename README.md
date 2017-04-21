@@ -33,7 +33,7 @@ Ethereum is a cutting edge blockchain-based distributed computing platform, feat
 #### History Articles:
  
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-- [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp]
+- [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp)
 
 ### I want more in-depth details!
 
