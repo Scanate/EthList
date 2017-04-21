@@ -4,6 +4,8 @@
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
+Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz
+
 ## Introduction
 
 Visual demonstration of a blockchain
