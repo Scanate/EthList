@@ -4,7 +4,7 @@
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier
+Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende
 
 ## Introduction
 
@@ -164,6 +164,9 @@ http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-p
 The Golden Age Of Open Protocols
 http://avc.com/2016/07/the-golden-age-of-open-protocols/
 
+Decentralized organizations can solve the world’s worst problems
+https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12
+
 Blockchain Tokens and the dawn of the Decentralized Business Model
 https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2
 
@@ -185,6 +188,9 @@ https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-co
 
 How to Raise Money on a Blockchain with a Token
 https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx
+
+Exploring Continuous Token Models: Towards a Million Networks of Value
+https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776
 
 Trick or Treat? Investment in Blockchain Cryptoassets
 https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh
