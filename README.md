@@ -4,7 +4,7 @@
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz
+Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier
 
 ## Introduction
 
@@ -153,6 +153,9 @@ https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_co
 
 Growth of the space
 https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i
+
+The Internet of Agreements: Building the Hyperconnected Future on Blockchains
+http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
 
 #### Decentralized Apps/Protocols
 Crypto Tokens and the Coming Age of Protocol Innovation
