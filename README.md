@@ -148,6 +148,8 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 - [https://ethplorer.io
 ](Ethplorer)
 
+#### Wallets
+- [https://myetherwallet.com/](My Ether Wallet)
 
 #### ICOs (Initial Coin Offerings):
 - [Ultimate ICO Calendar
