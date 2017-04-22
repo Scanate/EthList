@@ -137,17 +137,15 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 )
 
 #### News
-- [CoinTelegraph
-](https://cointelegraph.com/
-)
+- [CoinTelegraph](https://cointelegraph.com)
 - [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)](http://www.coindesk.com/)
 
 #### Ethereum Block Explorers
-- [https://etherscan.io](Etherscan)
-- [https://ethplorer.io](Ethplorer)
+- [Etherscan](https://etherscan.io)
+- [Ethplorer](https://ethplorer.io)
 
 #### Wallets
-- [https://myetherwallet.com](My Ether Wallet)
+- [My Ether Wallet](https://myetherwallet.com)
 
 #### ICOs (Initial Coin Offerings):
 - [Ultimate ICO Calendar
