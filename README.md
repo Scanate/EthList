@@ -101,6 +101,9 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 
 ## Ecosystem
 
+- [Where Can I Join The Ethereum Community?
+](https://medium.com/blockchannel/where-can-i-join-the-ethereum-community-3aa5c795b1e5
+)
 - [State of the Dapps
 ](http://dapps.ethercasts.com/
 )
