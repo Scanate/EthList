@@ -4,8 +4,6 @@
 | [Introduction](#introduction) | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende
-
 ## Introduction
 
 #### Simple explanations of Ethereum
@@ -298,6 +296,8 @@ https://cryptoderivatives.market/
 - [Legality of Bitcoin by Country
 ](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
 )
+
+Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende, Anonymous
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
 
