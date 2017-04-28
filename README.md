@@ -154,6 +154,14 @@
 
 #### Wallets
 - [My Ether Wallet](https://myetherwallet.com)
+- [MetaMask Chrome Extension](https://metamask.io/)
+- [Multi-platform Jaxx Wallet](https://jaxx.io/)
+- [Mist Wallet](https://github.com/ethereum/mist/releases/latest)
+- [Parity Wallet](https://github.com/paritytech/parity/releases/latest)
+- [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
+#### Hardware Wallets
+- [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S)
+- [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
 
 #### ICOs (Initial Coin Offerings):
 - [Ultimate ICO Calendar
