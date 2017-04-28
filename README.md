@@ -178,84 +178,87 @@
 )
 
 ## Thought Pieces
-
-Possibilities of Decentralized Technology
-https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/
-
-Risks of Ethereum
-https://www.reddit.com/r/ethtrader/wiki/risks
-
-Community Values
-https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/
-
-Growth of the space
-https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i
-
-The Internet of Agreements: Building the Hyperconnected Future on Blockchains
-http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
+- [Possibilities of Decentralized Technology
+](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/
+)
+- [Risks of Ethereum
+](https://www.reddit.com/r/ethtrader/wiki/risks
+)
+- [Ethereum Community Values
+](https://www.reddit.com/r/ethereum/comments/57hqyg/thoughts_on_our_values_as_a_community/
+)
+- [Growth of the Ethereum Ecosystem
+](https://blog.coinbase.com/the-coinbase-secret-master-plan-f4d644443301#.xdoe2er8i
+)
+- [The Internet of Agreements: Building the Hyperconnected Future on Blockchains
+](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
+)
 
 #### Decentralized Apps/Protocols
-Crypto Tokens and the Coming Age of Protocol Innovation
-http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
-
-The Golden Age Of Open Protocols
-http://avc.com/2016/07/the-golden-age-of-open-protocols/
-
-Decentralized organizations can solve the world’s worst problems
-https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12
-
-Blockchain Tokens and the dawn of the Decentralized Business Model
-https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2
-
-The Business Case for Dapps – Decentralization as a Strategy
-http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/
-
-‘Decentralised’ is the new black, or a short history of dapps
-http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps
-
-Cryptoeconomics Is Hard
-https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
+- [Crypto Tokens and the Coming Age of Protocol Innovation
+](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
+)
+- [The Golden Age Of Open Protocols
+](http://avc.com/2016/07/the-golden-age-of-open-protocols/
+)
+- [Decentralized organizations can solve the world’s worst problems
+](https://blog.aragon.one/decentralized-organizations-can-solve-the-worlds-worst-problems-840db6255d12
+)
+- [Blockchain Tokens and the dawn of the Decentralized Business Model
+](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.qxh3d0hh2
+)
+- [The Business Case for Dapps – Decentralization as a Strategy
+](http://mattgoldenberg.net/2016/01/02/the-business-case-for-dapps-decentralization-as-a-strategy/
+)
+- [‘Decentralised’ is the new black, or a short history of dapps
+](http://www.coinfox.info/news/reviews/5805-decentralised-is-the-new-black-or-a-short-history-of-dapps
+)
+- [Cryptoeconomics Is Hard
+](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9
+)
 
 #### Crowdsales
-Introducing the Blockchain Token Securities Law Framework
-https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
-
-Blockchain investments and the new problem asset for conventional VCs
-https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75
-
-How to Raise Money on a Blockchain with a Token
-https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx
-
-Exploring Continuous Token Models: Towards a Million Networks of Value
-https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776
-
-Trick or Treat? Investment in Blockchain Cryptoassets
-https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh
-
-AGAINST TOKENS (AND TOKEN CROWDSALES)
-https://prestonbyrne.com/2016/08/12/against-crowdsales/
-
-How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head
-http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/
-
-How to Evaluate an Initial Cryptocurrency Offering (ICO)
-http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/
-
-ICO 2.0 — what is the ideal ICO?
-https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix
-
-Blockchain investment vehicles: the future of global retail investment
-https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060
+- [Introducing the Blockchain Token Securities Law Framework
+](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
+)
+- [Blockchain investments and the new problem asset for conventional VCs
+](https://blog.coinfund.io/blockchain-investments-and-the-new-problem-asset-for-conventional-vcs-b65bfc7ca75
+)
+- [How to Raise Money on a Blockchain with a Token
+](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.z69j53rkx
+)
+- [Exploring Continuous Token Models: Towards a Million Networks of Value
+](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776
+)
+- [Trick or Treat? Investment in Blockchain Cryptoassets
+](https://medium.com/@flexthought/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c#.49xq4x4hh
+)
+- [AGAINST TOKENS (AND TOKEN CROWDSALES)
+](https://prestonbyrne.com/2016/08/12/against-crowdsales/
+)
+- [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head
+](http://startupmanagement.org/2016/10/06/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-model-on-its-head/
+)
+- [How to Evaluate an Initial Cryptocurrency Offering (ICO)
+](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/
+)
+- [ICO 2.0 — what is the ideal ICO?
+](https://medium.com/iconominet/why-icos-fail-1f9530a6d135#.6uw69odix
+)
+- [Blockchain investment vehicles: the future of global retail investment
+](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060
+)
 
 ## Trading
-Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)
-http://www.babypips.com/school
-
-Paradigm Shift: Technical Analysis in the Altcoins & Bitcoin Market, & Introduction to Market Cycle, Structure & Manipulation
-https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html
-
-CryptoCurrency Market Capitalizations
-https://coinmarketcap.com/
+- [Learn Forex Trading at the School of Pipsology (Very applicable to crypto trading)
+](http://www.babypips.com/school
+)
+- [Paradigm Shift: Technical Analysis in the Altcoins & Bitcoin Market, & Introduction to Market Cycle, Structure & Manipulation
+](https://alunacrypto.blogspot.ca/2014/05/technical-analysis-altcoins-bitcoin-trading-market-structure-cycle-manipulation.html
+)
+- [CryptoCurrency Market Capitalizations
+](https://coinmarketcap.com/
+)
 
 #### Exchanges
 
