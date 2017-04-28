@@ -17,6 +17,7 @@
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI) (video)
 - [Techcrunch on Ethereum](https://www.youtube.com/watch?v=WfULutvxvzY) (video)
 - [ELI5: What is Ethereum?](https://www.reddit.com/r/ethereum/comments/60hhjm/eli5_what_is_ethereum/)
+- [Ethereum: The not-Bitcoin cryptocurrency that could help replace Uber](http://mashable.com/2017/03/24/ethereum-bitcoin-explainer/)
 - [Introduction to Ethereum: The Internet’s Government](https://media.consensys.net/introduction-to-ethereum-the-internets-government-35bdd25f572a#.5me0m455w)
 - [A beginner’s guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf)
 - [What is Ethereum?](https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum)
