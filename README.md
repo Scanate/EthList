@@ -308,6 +308,9 @@ https://cryptoderivatives.market/
 - [Introducing the Blockchain Token Securities Law Framework
 ](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
 )
+- [The Law and Legality of Smart Contracts
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166
+)
 - [IRS Virtual Currency Guidance : Virtual Currency Is Treated as Property for U.S. Federal Tax Purposes; General Rules for Property Transactions Apply
 ](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance
 )
