@@ -1,6 +1,7 @@
-
 # EthList: The Comprehensive Ethereum Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
+
+Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende, Anonymous
 
 <a  href="https://ctt.ec/dU98Q">Tweet about this list!</a>
 
@@ -317,8 +318,6 @@ https://cryptoderivatives.market/
 - [Legality of Bitcoin by Country
 ](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
 )
-
-Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende, Anonymous
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
 
