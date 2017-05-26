@@ -137,7 +137,7 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 ](https://media.consensys.net/
 )
 - [The Etherian
-](https://theetherian.wordpress.com
+](https://etherian.world/
 )
 - [The Control
 ](https://thecontrol.co/
