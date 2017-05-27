@@ -79,6 +79,7 @@ Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, 
 #### Misc Collections:
 
 - [Learn about the Blockchain](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/)
+- [Some Blockchain Reading](https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39)
 - [Reading Guide on Ethereum](https://medium.com/@paulgambill/reading-guide-on-ethereum-27d006c82792#.vtek62s0k)
 - [Ethereum Reading List for Prospective Dapp Developers](https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23)
 - [r/ethereum’s Guide](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
