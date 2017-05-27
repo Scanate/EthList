@@ -1,7 +1,7 @@
 # EthList: The Comprehensive Ethereum Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
 
-Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Justin Poirier, Anonymous
+Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Justin Poirier, Anonymous
 
 <a  href="https://ctt.ec/dU98Q">Tweet about this list!</a>
 
@@ -30,6 +30,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 #### Deeper explanations of Ethereum
 - General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
 - [Programmable Blockchains in context: Ethereum](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
+- [Ethereum: Platform Overview](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/57506f387da24ff6bdecb3c1/1464889147417/Ethereum_Paper.pdf)
 - [Vitalik Buterin's Ethereum introduction at Devcon 1](https://www.youtube.com/watch?v=gjwr-7PgpN8) (video)
 - [Thinking outside the Blocks](https://www.bcg.com/blockchain/thinking-outside-the-blocks.html?linkId=32278919)
 - [Understanding Ethereum Report](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) (PDF)
@@ -294,6 +295,7 @@ https://cryptoderivatives.market/
 - [Read the documentation](http://ethdocs.org/en/latest/) (for Homestead)
 - [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
 - [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
+- [Check out **Truffle**, a smart contract development framwork](http://truffleframework.com/)
 - [Browse the Ethereum Ecosystem Business Directory](http://ethereumall.com/)
 - [Ask questions at **Ethereum Stack Exchange**](http://ethereum.stackexchange.com/)
 - [Live chat with Ethereum developer teams and community](https://gitter.im/orgs/ethereum/rooms)
