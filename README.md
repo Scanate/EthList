@@ -291,6 +291,7 @@ https://cryptoderivatives.market/
 - [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
 - [Build a democracy on the blockchain](https://www.ethereum.org/dao)
 - [Build **your first DApp** in ten steps](https://github.com/paritytech/parity/wiki/Tutorial-Part-I)
+- [Ethereum DApp devolpment (videos)](http://decypher.tv/series/ethereum-development)
 - [Monitor the network status](https://ethstats.net/) ([mirror](http://stats.parity.io/)) and [the gas price market](http://ethgasstation.info/)
 - [Read the documentation](http://ethdocs.org/en/latest/) (for Homestead)
 - [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
