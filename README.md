@@ -138,7 +138,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ](https://media.consensys.net/
 )
 - [The Etherian
-](https://theetherian.wordpress.com
+](https://etherian.world/
 )
 - [The Control
 ](https://thecontrol.co/
