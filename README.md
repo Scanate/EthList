@@ -1,7 +1,7 @@
 # EthList: The Comprehensive Ethereum Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
 
-Contributors: Phil Kurtland, Jake Brukhman, Robert Hackett, Maksim Balashevich, Jorge Izquierdo, Michal Brazewicz, Justin Poirier, Luis Cuende, Anonymous
+Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Justin Poirier, Anonymous
 
 <a  href="https://ctt.ec/dU98Q">Tweet about this list!</a>
 
