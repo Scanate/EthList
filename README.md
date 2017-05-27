@@ -1,4 +1,4 @@
-# EthList: The Comprehensive Ethereum Reading List</p>
+# EthList: The Crowdsourced Ethereum Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
 
 Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Anonymous
