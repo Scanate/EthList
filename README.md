@@ -314,6 +314,9 @@ https://cryptoderivatives.market/
 - [Introducing the Blockchain Token Securities Law Framework
 ](https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f#.7xhadylu3
 )
+- [Securities Law Framework for Blockchain Tokens
+](https://docs.google.com/spreadsheets/d/1QxOV2dgxO3C_TyVE0-41ZwLlzPmB-EE1NNshJGuedCU/edit#gid=0
+)
 - [The Law and Legality of Smart Contracts
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166
 )
