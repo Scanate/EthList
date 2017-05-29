@@ -297,7 +297,7 @@ https://cryptoderivatives.market/
 - [Read the documentation](http://ethdocs.org/en/latest/) (for Homestead)
 - [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
 - [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
-- [Check out **Truffle**, a smart contract development framwork](http://truffleframework.com/)
+- [Check out **Truffle**, a smart contract development framework](http://truffleframework.com/)
 - [Browse the Ethereum Ecosystem Business Directory](http://ethereumall.com/)
 - [Ask questions at **Ethereum Stack Exchange**](http://ethereum.stackexchange.com/)
 - [Live chat with Ethereum developer teams and community](https://gitter.im/orgs/ethereum/rooms)
