@@ -28,6 +28,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 
 #### Deeper explanations of Ethereum
+- [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
 - General [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper), Technical [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pdf)
 - [Programmable Blockchains in context: Ethereum](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e)
 - [Ethereum: Platform Overview](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/57506f387da24ff6bdecb3c1/1464889147417/Ethereum_Paper.pdf)
