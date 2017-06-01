@@ -167,6 +167,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Mist Wallet](https://github.com/ethereum/mist/releases/latest)
 - [Parity Wallet](https://github.com/paritytech/parity/releases/latest)
 - [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
+- [imToken](https://token.im/)
+
 #### Hardware Wallets
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S)
 - [Trezor](https://blog.trezor.io/trezor-integration-with-myetherwallet-3e217a652e08)
@@ -184,6 +186,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [TokenInvestor
 ](https://tokeninvestor.com/
 )
+- [imToken ICO Dapp](https://ico.token.im/)
 
 ## Thought Pieces
 - [Possibilities of Decentralized Technology
