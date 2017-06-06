@@ -89,6 +89,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [r/ethereum’s Guide](https://www.reddit.com/r/ethereum/comments/61y5ix/welcome_to_rethereum_the_reddit_front_page_of_the/)
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
+- [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
 
 ## Getting Started
 
