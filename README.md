@@ -207,6 +207,9 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [The Internet of Agreements: Building the Hyperconnected Future on Blockchains
 ](http://internetofagreements.com/files/WorldGovernmentSummit-Dubai2017.pdf
 )
+- [Thoughts on Tokens](https://medium.com/@balajis/thoughts-on-tokens-436109aabcbe)
+- [Fat Protocols](http://www.usv.com/blog/fat-protocols)
+- [Money, Blockchains, and Social Scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
 
 #### Decentralized Apps/Protocols
 - [Crypto Tokens and the Coming Age of Protocol Innovation
