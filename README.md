@@ -1,7 +1,7 @@
 # EthList: The Crowdsourced Ethereum Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
 
-Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Anonymous
+Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous
 
 <a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Tweet about this list!</a>
 
@@ -26,6 +26,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Just enough Bitcoin for Ethereum](https://media.consensys.net/time-sure-does-fly-ed4518792679#.xclr74isu)
 - [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
 - [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
+- [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
 
 #### Deeper explanations of Ethereum
 - [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
@@ -99,6 +100,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum - Getting Started - Australian Edition
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
+- [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
 
 #### Security:
 - [The Crypto-Trader’s Guide to Online Security
