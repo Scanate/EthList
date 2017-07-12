@@ -163,6 +163,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### News
 - [CoinTelegraph](https://cointelegraph.com)
+- [ETHNews](https://www.ethnews.com)
 - [CoinDesk (owned by Digital Currency Group, which has a stake in a competing cryptocurrency)](http://www.coindesk.com/)
 
 #### Ethereum Block Explorers
