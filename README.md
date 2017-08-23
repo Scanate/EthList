@@ -28,6 +28,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum: Bitcoin Plus Everything](https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106#.v7s0ganew)
 - [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 - [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
+- [WTF is Ethereum?](http://whatthefuckisethereum.com/)
 
 #### Deeper explanations of Ethereum
 - [Minimum Viable Blockchain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
