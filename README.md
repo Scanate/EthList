@@ -197,9 +197,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [TokenMarket
 ](https://tokenmarket.net/
 )
-- [TokenInvestor
-](https://tokeninvestor.com/
-)
 - [imToken ICO Dapp](https://ico.token.im/)
 
 ## Thought Pieces
