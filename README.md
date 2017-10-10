@@ -83,6 +83,9 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - **Kovan**, Proof-of-Authority [public test network](https://github.com/kovan-testnet/proposal)
 - Rinkeby, Proof-of-Authority, _to be announced_ ([EIP-225](https://github.com/ethereum/EIPs/issues/225))
 
+#### Faucets:
+- [Ropsten Faucet](http://faucet.ropsten.be:3001/)
+
 #### Misc Collections:
 
 - [Learn about the Blockchain](https://www.reddit.com/r/Entrepreneur/comments/3l7gj2/i_want_to_learn_everything_about_the_blockchain/)
@@ -164,6 +167,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 #### YouTube Channels
 - [Crypt0's News - Daily Video Blog](https://www.youtube.com/user/obham001/videos)
 - [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
+- [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
 
 #### News
 - [CoinTelegraph](https://cointelegraph.com)
