@@ -44,7 +44,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### History Articles:
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-- [The Uncanny Mind That Built Ethereum](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.27vnan8wp)
+- [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 ### I want more in-depth details!
 
