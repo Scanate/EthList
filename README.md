@@ -85,6 +85,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### Faucets:
 - [Ropsten Faucet](http://faucet.ropsten.be:3001/)
+- [Rinkeby Faucet](https://faucet.rinkeby.io/)
 
 #### Misc Collections:
 
