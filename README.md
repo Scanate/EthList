@@ -144,8 +144,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Berlin Ethereum](https://www.youtube.com/watch?v=KWeNSvori4I&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) (meetup)
 - [Ethereum Core Developer Meetings](https://www.youtube.com/watch?v=ex51Gb3SVqo&list=PLaM7G4Llrb7zfMXCZVEXEABT8OSnd4-7w) (call)
 - [Building Ethereum DApps using Solidity](https://www.youtube.com/watch?v=9_coM_g7Dbg&list=PLH4m2oS2ratdoHFEkGvwvd7TkeTv4sa7Z) (tutorial)
-- [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) (guide)
-- [The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868) (guide)
 
 #### Newsletters
 - [Week in Ethereum
@@ -316,6 +314,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Programming
 
+- [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
+- [The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
 - [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
 - [Build your own crypto-currency with Ethereum](https://www.ethereum.org/token)
 - [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
