@@ -41,6 +41,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Understanding Ethereum Report](https://forum.daohub.org/uploads/default/original/2X/b/b583e2bb2e6998bfec40d488b1709deb53abdc4a.pdf) (PDF)
 - [Very deep-dive on Ethereum Reading List](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
 - [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779)
+- [Full Ethereum Syllabus with Detailed Summaries and Resources](https://novicedock.com/learn/cryptocurrency/ethereum)
 
 #### History Articles:
 - [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
@@ -335,6 +336,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Learning to Code in Ethereum](https://www.reddit.com/r/ethereum/comments/4z4y81/any_advice_on_learning_to_code_in_ethereum/)
 - [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
 - [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
+- [CryptoZombies.io - Learn Solidity by Making a Game](https://cryptozombies.io/)
 
 ## Legal
 - [BitLegal Map
