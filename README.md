@@ -29,6 +29,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/)
 - [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
 - [WTF is Ethereum?](http://whatthefuckisethereum.com/)
+- [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
 
 #### Deeper explanations of Ethereum
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
