@@ -78,6 +78,18 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - **Serenity** _to be announced_ (2018)
   - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
 
+### [Research](https://ethresear.ch/)
+#### Proof of Stake (PoS)
+  [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+  [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
+  [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+#### Plasma
+  [Plasma Whitepaper](https://plasma.io)
+  [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+#### Sharding
+  [Sharding Research](https://ethresear.ch/c/sharding)
+  
+
 #### List of public testnets:
 
 - Olympic, pre-release public test network with ID #0 (replaced by Morden)
