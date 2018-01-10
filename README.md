@@ -80,14 +80,15 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ### [Research](https://ethresear.ch/)
 #### Proof of Stake (PoS)
-  [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-  [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
-  [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+- [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+- [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
+- [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
 #### Plasma
-  [Plasma Whitepaper](https://plasma.io)
-  [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+- [Plasma Whitepaper](https://plasma.io)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 #### Sharding
-  [Sharding Research](https://ethresear.ch/c/sharding)
+- [Sharding Research](https://ethresear.ch/c/sharding)
+- [Sharding GitHub Repo](https://github.com/ethereum/sharding)
   
 
 #### List of public testnets:
