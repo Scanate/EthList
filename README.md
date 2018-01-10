@@ -77,18 +77,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
   - _work in progress_: [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
 - **Serenity** _to be announced_ (2018)
   - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
-
-### [Research](https://ethresear.ch/)
-#### Proof of Stake (PoS)
-- [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-- [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
-- [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
-#### Plasma
-- [Plasma Whitepaper](https://plasma.io)
-- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
-#### Sharding
-- [Sharding Research](https://ethresear.ch/c/sharding)
-- [Sharding GitHub Repo](https://github.com/ethereum/sharding)
   
 
 #### List of public testnets:
@@ -115,6 +103,18 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
 - [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
+
+## [Research](https://ethresear.ch/)
+### Proof of Stake (PoS)
+- [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+- [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
+- [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+### Plasma
+- [Plasma Whitepaper](https://plasma.io)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+### Sharding
+- [Sharding Research](https://ethresear.ch/c/sharding)
+- [Sharding GitHub Repo](https://github.com/ethereum/sharding)
 
 ## Getting Started
 
