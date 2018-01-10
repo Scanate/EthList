@@ -12,6 +12,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ## Introduction
 
 #### Simple explanations of Ethereum
+- [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
 - [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
 - [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY) (video)
@@ -55,7 +57,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 - [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
+- [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
 
 #### List of protocol updates and hard-forks:
 
@@ -313,6 +315,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 [EtherDelta](https://etherdelta.github.io/)
 
 [CryptoDerivatives](https://cryptoderivatives.market/)
+
+A growing list of 'relays' on top of [0x](https://0xproject.com/):
+[Paradex](https://paradex.io/)
+[RadarRelay](https://radarrelay.com/)
+[Ethfinex](https://www.ethfinex.com/)
 
 ## Programming
 
