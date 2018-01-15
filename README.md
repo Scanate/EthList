@@ -309,19 +309,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### Exchanges
 
-##### Bitcoin
-[Bitfinex](https://www.bitfinex.com/?refcode=HHnU1oLSgo)
-
-[Bitmex (Futures)](https://www.bitmex.com/)
-
-##### Altcoins
-
-[Bittrex](https://bittrex.com)
-
-[Poloniex](https://poloniex.com/)
-
-[Liqui](https://liqui.io/)
-
 ##### Decentralized Exchanges (Mostly Eth assets)
 [OasisDex](https://oasisdex.com/)
 
@@ -329,9 +316,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 [CryptoDerivatives](https://cryptoderivatives.market/)
 
-A growing list of 'relays' on top of [0x](https://0xproject.com/):
+##### [0x Relayers](https://0xproject.com/):
 [Paradex](https://paradex.io/)
+
 [RadarRelay](https://radarrelay.com/)
+
 [Ethfinex](https://www.ethfinex.com/)
 
 ## Programming
