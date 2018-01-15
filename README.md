@@ -12,6 +12,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ## Introduction
 
 #### Simple explanations of Ethereum
+- [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
 - [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
 - [Vitalik Buterin explains Ethereum](https://www.youtube.com/watch?v=TDGq4aeevgY) (video)
@@ -55,7 +57,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Devcon 0 (Berlin, 2014) talks and videos](https://www.youtube.com/watch?v=_BvvUlKDqp0&amp;list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 - [Devcon 1 (London, 2015) talks and videos](https://www.youtube.com/watch?v=BUARih8_f68&list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
 - [Devcon 2 (Shanghai, 2016) talks and videos](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-- [**Devcon 3** (Cancún, 2017) website and registration](http://ethereumfoundation.org/devcon3/)
+- [Devcon 3 (Cancún, 2017) talks and videos](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g/playlists)
 
 #### List of protocol updates and hard-forks:
 
@@ -75,6 +77,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
   - _work in progress_: [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
 - **Serenity** _to be announced_ (2018)
   - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
+  
 
 #### List of public testnets:
 
@@ -100,6 +103,18 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
 - [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
+
+## [Research](https://ethresear.ch/)
+### Proof of Stake (PoS)
+- [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+- [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
+- [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+### Plasma
+- [Plasma Whitepaper](https://plasma.io)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+### Sharding
+- [Sharding Research](https://ethresear.ch/c/sharding)
+- [Sharding GitHub Repo](https://github.com/ethereum/sharding)
 
 ## Getting Started
 
@@ -313,6 +328,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 [EtherDelta](https://etherdelta.github.io/)
 
 [CryptoDerivatives](https://cryptoderivatives.market/)
+
+A growing list of 'relays' on top of [0x](https://0xproject.com/):
+[Paradex](https://paradex.io/)
+[RadarRelay](https://radarrelay.com/)
+[Ethfinex](https://www.ethfinex.com/)
 
 ## Programming
 
