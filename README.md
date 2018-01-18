@@ -324,7 +324,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 [Ethfinex](https://www.ethfinex.com/)
 
 ## Programming
-- [How to deploy Smart Contract using Geth](https://medium.com/@thenanobyte/how-to-deploy-the-smart-contract-on-private-ethereum-network-using-geth-66586b53b06e)
 - [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
 - [The ultimate guide to audit a Smart Contract + Most dangerous attacks in Solidity](https://medium.com/@merunasgrincalaitis/how-to-audit-a-smart-contract-most-dangerous-attacks-in-solidity-ae402a7e7868)
 - [Dapps 101: How do I start developing on Ethereum?](https://blog.andreacoravos.com/dapps-101-how-do-i-start-developing-on-ethereum-da0d38ed973f)
@@ -349,6 +348,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Getting started with Ethereum & Solidity on Windows — part 1](https://medium.com/@wslyvh/get-started-with-ethereum-solidity-on-windows-1672e9953a1)
 - [Getting started with Ethereum, Solidity & Geth — part 2](https://medium.com/@wslyvh/getting-started-with-ethereum-solidity-geth-part-2-d195144fe6c7)
 - [CryptoZombies.io - Learn Solidity by Making a Game](https://cryptozombies.io/)
+- [How to deploy Smart Contract using Geth](https://medium.com/@thenanobyte/how-to-deploy-the-smart-contract-on-private-ethereum-network-using-geth-66586b53b06e)
 
 ## Legal
 - [BitLegal Map
