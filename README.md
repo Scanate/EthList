@@ -77,7 +77,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
   - _work in progress_: [EIP-86](https://github.com/ethereum/EIPs/pull/208), [EIP-96](https://github.com/ethereum/EIPs/pull/210), [EIP-98](https://github.com/ethereum/EIPs/issues/98), [EIP-100](https://github.com/ethereum/EIPs/issues/100), [EIP-140](https://github.com/ethereum/EIPs/pull/206), [EIP-196](https://github.com/ethereum/EIPs/pull/213), [EIP-197](https://github.com/ethereum/EIPs/pull/212), [EIP-198](https://github.com/ethereum/EIPs/pull/198)
 - **Serenity** _to be announced_ (2018)
   - [Why does Ethereum plan to move to Proof of Stake](http://ethereum.stackexchange.com/questions/9)?
-  
+
 
 #### List of public testnets:
 
@@ -204,6 +204,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Parity Wallet](https://github.com/paritytech/parity/releases/latest)
 - [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
 - [imToken](https://token.im/)
+- [Toshi Wallet + Dapp Browser + Messenger](https://toshi.org)
 
 #### Hardware Wallets
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S)
