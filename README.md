@@ -32,6 +32,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [A Very Non-technical Explanation of Ethereum (aka Yet Another Ethereum Explanation)](https://medium.com/connext/yet-another-ethereum-explanation-32cc31a91092)
 - [WTF is Ethereum?](http://whatthefuckisethereum.com/)
 - [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
+- [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
 
 #### Deeper explanations of Ethereum
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
@@ -186,6 +187,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Crypt0's News - Daily Video Blog](https://www.youtube.com/user/obham001/videos)
 - [Ameer Rosic](https://www.youtube.com/user/AmeerRosic/videos)
 - [Decypher Media](https://www.youtube.com/channel/UC8CB0ZkvogP7tnCTDR-zV7g)
+- [Ivan on Tech](https://www.youtube.com/c/IvanOnTech)
 
 #### News
 - [CoinTelegraph](https://cointelegraph.com)
