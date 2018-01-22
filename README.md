@@ -12,6 +12,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ## Introduction
 
 #### Simple explanations of Ethereum
+- [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
 - [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
 - [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
