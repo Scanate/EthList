@@ -354,6 +354,11 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [CryptoZombies.io - Learn Solidity by Making a Game](https://cryptozombies.io/)
 - [How to deploy Smart Contract using Geth](https://medium.com/@thenanobyte/how-to-deploy-the-smart-contract-on-private-ethereum-network-using-geth-66586b53b06e)
 - [3 part series on building a full stack Ethereum voting dapp](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
+- [Ethereum Development Guide — Part 1. Developing an Ethereum Document Certification Contract](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-1-ad0c77c3683f)
+- [Ethereum Development Guide — Part 2. Interacting with smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
+- [Ethereum Development Guide — Part 3. Developing web interfaces for smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
+- [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
+
 
 ## Legal
 - [BitLegal Map
