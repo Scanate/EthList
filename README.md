@@ -105,6 +105,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
 - [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
+- [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
 
 ## [Research](https://ethresear.ch/)
 ### Proof of Stake (PoS)
