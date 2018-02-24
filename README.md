@@ -13,6 +13,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### Simple explanations of Ethereum
 - [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 - [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
 - [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
@@ -105,6 +106,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page)
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
 - [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
+- [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
 
 ## [Research](https://ethresear.ch/)
 ### Proof of Stake (PoS)
@@ -358,6 +360,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum Development Guide — Part 2. Interacting with smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
 - [Ethereum Development Guide — Part 3. Developing web interfaces for smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
 - [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
+- [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 
 ## Legal
