@@ -360,6 +360,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum Development Guide — Part 2. Interacting with smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
 - [Ethereum Development Guide — Part 3. Developing web interfaces for smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
 - [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
+- [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 
 ## Legal
