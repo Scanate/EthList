@@ -13,6 +13,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 #### Simple explanations of Ethereum
 - [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 - [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [Visual demonstration of a blockchain](https://anders.com/blockchain/)
 - [Ethereum the world computer](https://www.youtube.com/watch?v=j23HnORQXvs) (video)
