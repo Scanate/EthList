@@ -359,6 +359,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum Development Guide — Part 1. Developing an Ethereum Document Certification Contract](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-1-ad0c77c3683f)
 - [Ethereum Development Guide — Part 2. Interacting with smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-2-d2d8ac67e51d)
 - [Ethereum Development Guide — Part 3. Developing web interfaces for smart contracts](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-3-c5a402bf8815)
+- [Developing an Ethereum Blockchain Application - Research project that is very useful and detailed](http://www.delaat.net/rp/2015-2016/p53/report.pdf)
 - [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
 - [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
