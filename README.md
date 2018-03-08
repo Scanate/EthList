@@ -109,6 +109,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
 
 ## [Research](https://ethresear.ch/)
+- [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 ### Proof of Stake (PoS)
 - [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
@@ -116,7 +117,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ### Plasma
 - [Plasma Whitepaper](https://plasma.io)
 - [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
-- [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 ### Sharding
 - [Sharding Research](https://ethresear.ch/c/sharding)
 - [Sharding GitHub Repo](https://github.com/ethereum/sharding)
