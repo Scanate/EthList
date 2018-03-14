@@ -201,6 +201,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 #### Ethereum Block Explorers
 - [Etherscan](https://etherscan.io)
 - [Ethplorer](https://ethplorer.io)
+- [Trivial Token Explorer](https://www.trivial.co/)
 
 #### Wallets
 - [My Ether Wallet](https://myetherwallet.com)
@@ -322,6 +323,8 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 [EtherDelta](https://etherdelta.github.io/)
 
 [CryptoDerivatives](https://cryptoderivatives.market/)
+
+[Radex](https://radex.ai/welcome)
 
 ##### [0x Relayers](https://0xproject.com/):
 [Paradex](https://paradex.io/)
