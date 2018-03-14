@@ -322,6 +322,10 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 [EtherDelta](https://etherdelta.github.io/)
 
+[ForkDelta](https://forkdelta.github.io/)
+
+[Idex](https://idex.market/)
+
 [CryptoDerivatives](https://cryptoderivatives.market/)
 
 [Radex](https://radex.ai/welcome)
