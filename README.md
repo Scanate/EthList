@@ -229,6 +229,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [imToken ICO Dapp](https://ico.token.im/)
 
 ## Thought Pieces
+- [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
 - [Possibilities of Decentralized Technology
 ](https://www.reddit.com/r/ethtrader/comments/4dvfcm/serious_question_can_anyone_actually_think_of/d1uskh1/
 )
