@@ -212,6 +212,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest)
 - [imToken](https://token.im/)
 - [Toshi Wallet + Dapp Browser + Messenger](https://toshi.org)
+- [Trust Wallet + Dapp Browser](https://trustwalletapp.com)
 
 #### Hardware Wallets
 - [Ledger Nano S](https://theethereum.wiki/w/index.php/Ledger_Nano_S)
