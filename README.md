@@ -372,6 +372,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Developing an Ethereum Blockchain Application - Research project that is very useful and detailed](http://www.delaat.net/rp/2015-2016/p53/report.pdf)
 - [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
 - [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [Discover Ethereum & Solidity – Complete online course](https://www.ludu.co/course/ethereum)
 
 
 ## Legal
