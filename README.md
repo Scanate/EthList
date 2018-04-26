@@ -35,6 +35,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Super Beginner's Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
 - [Blockchain: The New Technology of Trust](http://www.goldmansachs.com/our-thinking/pages/blockchain/)
 - [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [Golden Ethereum Overview](https://golden.co/wiki/Ethereum)
 
 #### Deeper explanations of Ethereum
 - [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
@@ -107,6 +108,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum Stack Exchange](https://ethereum.stackexchange.com)
 - [The Ultimate Reading List for Blockchain, Token and Cryptocurrency Sources](http://startupmanagement.org/2017/06/06/the-ultimate-reading-list-for-blockchain-token-and-cryptocurrency-sources/)
 - [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
+- [Golden Cryptocurrency and Blockchain cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency)
 
 ## [Research](https://ethresear.ch/)
 - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
