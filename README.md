@@ -109,17 +109,22 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Curated List of Blockchain-related Academic Papers](https://github.com/decrypto-org/blockchain-papers)
 
 ## [Research](https://ethresear.ch/)
+- [Ethereum 2.0 Spec](https://github.com/ethereum/eth2.0-specs)
+- [Ethereum 2.0 - Who's building it?](https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e)
 - [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 ### Proof of Stake (PoS)
 - [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - [Casper FFG Paper](https://arxiv.org/abs/1710.09437)
 - [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
-### Plasma
-- [Plasma Whitepaper](https://plasma.io)
-- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 ### Sharding
 - [Sharding Research](https://ethresear.ch/c/sharding)
 - [Sharding GitHub Repo](https://github.com/ethereum/sharding)
+### ewasm
+- [ewasm Design](https://github.com/ewasm/design)
+- [ewasm Repos](https://github.com/ewasm)
+### Plasma
+- [Plasma Whitepaper](https://plasma.io)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
 ## Getting Started
 
