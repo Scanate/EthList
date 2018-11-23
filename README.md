@@ -123,9 +123,6 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Getting Started
 
-- [Easy Guide to Using Ethereum
-](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
-)
 - [Ethereum - Getting Started - Australian Edition
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
