@@ -316,6 +316,9 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [ ] [CryptoCurrency Market Capitalizations
 ](https://coinmarketcap.com/
 )
+- [Price/Markets/ATH/News
+](https://www.coinlore.com/coin/ethereum
+)
 
 #### Exchanges
 
