@@ -373,7 +373,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Ethereum Smart Contract Security](https://medium.com/@sbeyer_31150/ethereum-smart-contract-security-73b0ede73fa8)
 - [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Discover Ethereum & Solidity – Complete online course](https://www.ludu.co/course/ethereum)
-
+- [Learn Solidity by building projects](https://www.questbook.app/)
 
 ## Legal
 - [BitLegal Map
