@@ -12,7 +12,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 ## Introduction
 
 #### Simple explanations of Ethereum
-- [ ] [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
+- [x] [Blockchain Demo - Visual demonstration of blockchain technologies](https://blockchaindemo.io)
 - [ ] [Minimal Blockchain Learning Hands-on CLI](https://github.com/daxeel/blockshell)
 - [ ] [Coin Demo - Visual demonstration of cryptocurrency technologies](https://coindemo.io)
 - [ ] [Visual demonstration of a blockchain](https://anders.com/blockchain/)
@@ -123,7 +123,10 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Getting Started
 
-- [Ethereum - Getting Started - Australian Edition
+- [ ] [Easy Guide to Using Ethereum
+](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
+)
+- [ ] [Ethereum - Getting Started - Australian Edition
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
 - [ ] [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
