@@ -123,10 +123,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 ## Getting Started
 
-- [ ] [Easy Guide to Using Ethereum
-](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
-)
-- [ ] [Ethereum - Getting Started - Australian Edition
+- [Ethereum - Getting Started - Australian Edition
 ](http://ashleyknowles.net/2017/05/ethereum-getting-started-aussie-edition/
 )
 - [ ] [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
