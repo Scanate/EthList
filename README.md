@@ -48,6 +48,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [ ] [Very deep-dive on Ethereum Reading List](https://medium.com/@ConsenSys/very-deep-dive-on-ethereum-reading-list-f5b1122e5990)
 - [ ] [Dissecting Ponzi schemes on Ethereum: identification, analysis, and impact](https://arxiv.org/abs/1703.03779)
 - [ ] [Full Ethereum Syllabus with Detailed Summaries and Resources](https://novicedock.com/learn/cryptocurrency/ethereum)
+- [ ] "Proof-of-Stake: Demystifying the Decentralization Debates". https://medium.com/@ayomide27victor/proof-of-stake-pos-demystifying-the-decentralization-debates-5aed602a4265 
 
 #### History Articles:
 - [ ] [Can This 22-year-old Coder Out-Bitcoin Bitcoin?](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
