@@ -86,14 +86,16 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 
 - Olympic, pre-release public test network with ID #0 (replaced by Morden)
 - Morden, Fontier-based public test network with ID #2 ([replaced by Ropsten](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/))
-- **Ropsten**, Homestead-based public test network with ID #3 ([recently revived](https://www.reddit.com/r/ethereum/comments/61bawv/ropsten_revived_thanks_to_generous_miners/))
+- **Ropsten**, Homestead-based public test network with ID #3 (deprecated as it was not merged)
 - ConsenSys, Proof-of-Work [public test network](https://github.com/ConsenSys/ConsenSys.github.io/wiki/ConsenSys-public-testnet)
-- **Kovan**, Proof-of-Authority [public test network](https://github.com/kovan-testnet/proposal)
-- Rinkeby, Proof-of-Authority, _to be announced_ ([EIP-225](https://github.com/ethereum/EIPs/issues/225))
+- **Kovan**, Proof-of-Authority [public test network](https://github.com/kovan-testnet/proposal)(deprecated as it was not merged)
+- Rinkeby, Proof-of-Authority [public test network]([EIP-225](https://github.com/ethereum/EIPs/issues/225))(deprecated as it was not merged)
+- Goerli, Proof-of-Stake [public test network](https://github.com/eth-clients/goerli)
+- Sepolia, Proof-of-Stake [public test network](https://github.com/eth-clients/goerli)
 
 #### Faucets:
-- [ ] [Ropsten Faucet](http://faucet.ropsten.be:3001/)
-- [ ] [Rinkeby Faucet](https://faucet.rinkeby.io/)
+- [ ] [Goerli Faucets](https://faucetlink.to/goerli)
+- [ ] [Sepolia Faucets](https://faucetlink.to/sepolia)
 
 #### Misc Collections:
 
